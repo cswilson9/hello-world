@@ -1,5 +1,5 @@
 # hello-world
-# Created 3/14/17
+- Created 3/14/17
 
 GitHub Hello World Guide
 
